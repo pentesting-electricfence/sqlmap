@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+CHANGED 1
 """
 Copyright (c) 2006-2016 sqlmap developers (http://sqlmap.org/)
 See the file 'doc/COPYING' for copying permission
